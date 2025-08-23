@@ -1,0 +1,14 @@
+{
+    "test": [
+        {
+            "name": "example.jpg",
+            "uniqueName": "example_20240522_153045.jpg",
+            "s3Key": "files/test/example_20240522_153045.jpg",
+            "url": "https://awslambda0521.s3.amazonaws.com/files/test/example_20240522_153045.jpg",
+            "size": "512.3 KB",
+            "uploadDate": "2025-05-22",
+            "uploadTime": "2025-05-22T15:30:45.123Z",
+            "type": "image/jpeg"
+        }
+    ]
+}
